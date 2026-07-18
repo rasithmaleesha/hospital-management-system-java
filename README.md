@@ -58,7 +58,6 @@ Hospital Management System
 
 ### 🔐 Login Screen
 
-> *(Add Login Screenshot Here)*
 
 <img width="1690" height="947" alt="Screenshot 2026-07-18 092522" src="https://github.com/user-attachments/assets/30c6d620-a508-465e-95cc-39ff64cfc5b7" />
 
@@ -67,7 +66,6 @@ Hospital Management System
 
 ### 🏥 Dashboard
 
-> *(Add Dashboard Screenshot Here)*
 
 <img width="1702" height="950" alt="Screenshot 2026-07-18 092114" src="https://github.com/user-attachments/assets/34ab867d-cb23-4104-ad6d-7e269a247cf9" />
 
@@ -76,7 +74,6 @@ Hospital Management System
 
 ### 👤 Add Patient
 
-> *(Add Patient Screenshot Here)*
 
 <img width="971" height="611" alt="Screenshot 2026-07-18 092416" src="https://github.com/user-attachments/assets/6124d585-6d74-493b-870b-1c8fd6fac4af" />
 
@@ -85,7 +82,6 @@ Hospital Management System
 
 ### 🩺 Add Diagnosis
 
-> *(Add Diagnosis Screenshot Here)*
 
 <img width="963" height="617" alt="Screenshot 2026-07-18 092436" src="https://github.com/user-attachments/assets/37c2bdc0-758f-43f9-9721-7ec10e103209" />
 
